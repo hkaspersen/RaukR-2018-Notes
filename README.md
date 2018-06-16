@@ -44,6 +44,9 @@ ggplot2](https://nbisweden.github.io/RaukR-2018/ggplot_Roy/presentation/ggplot_p
 [Mathematical Statistics in 
 R](https://nbisweden.github.io/RaukR-2018/GeneralStats_Nikolay/Presentation_GeneralStats.html#1)
 
+### Workshop Presentations
+
+
 ### Notes
 
 [Day 1: Better Coding](RaukR_Notes.html)
