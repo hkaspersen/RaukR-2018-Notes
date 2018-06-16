@@ -46,6 +46,8 @@ R](https://nbisweden.github.io/RaukR-2018/GeneralStats_Nikolay/Presentation_Gene
 
 ### Workshop Presentations
 
+[Metagenomics 
+Workshop](https://nbisweden.github.io/RaukR-2018/metagenomics_John/presentation/DADA2_presentation.html#1)
 
 ### Notes
 
