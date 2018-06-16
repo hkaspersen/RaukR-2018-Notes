@@ -64,3 +64,5 @@ Workshop](https://nbisweden.github.io/RaukR-2018/metagenomics_John/presentation/
 ### Workshops
 
 [RNASeq and ChipSeq](RaukR_Workshop1_RNASeq_ChipSeq.html)
+
+[Annotation](RaukR_Workshop2_Annotation.html)

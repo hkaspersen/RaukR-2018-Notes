@@ -17,3 +17,5 @@ RNAseq/
 js/
 css/
 glimma-plots/
+*.txt
+*.fa
