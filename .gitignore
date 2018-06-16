@@ -11,3 +11,5 @@ uppsala_tm_1722-2017/
 *.dat
 .Rdata
 .Rproj.user/
+*.tar
+SRP043368/

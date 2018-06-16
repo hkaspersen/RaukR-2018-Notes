@@ -55,3 +55,7 @@ R](https://nbisweden.github.io/RaukR-2018/GeneralStats_Nikolay/Presentation_Gene
 [Day 4: Statistics](RaukR_Notes_day4.html)
 
 [Day 5: Bioconductor](RaukR_Notes_day5.html)
+
+### Workshops
+
+[RNASeq and ChipSeq](RaukR_Workshop1_RNASeq_ChipSeq.html)
