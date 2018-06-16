@@ -1,0 +1,13 @@
+*.RAW
+*.raw
+*.rmd
+*.RMD
+*.R
+*.Rproj
+*.csv
+Untitled/
+uppsala_tm_1722-2017/
+.Rhistory
+*.dat
+.Rdata
+.Rproj.user/
