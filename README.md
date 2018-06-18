@@ -49,6 +49,12 @@ R](https://nbisweden.github.io/RaukR-2018/GeneralStats_Nikolay/Presentation_Gene
 [Metagenomics 
 Workshop](https://nbisweden.github.io/RaukR-2018/metagenomics_John/presentation/DADA2_presentation.html#1)
 
+[Spatial Statistics 
+Workshop](https://nbisweden.github.io/RaukR-2018/aeral_data_Paula/presentation-disease-mapping.pdf)
+
+[Machine 
+Learning](https://nbisweden.github.io/RaukR-2018/MachineLearning_Nikolay/Presentation_MachineLearning.html#15)
+
 ### Notes
 
 [Day 1: Better Coding](RaukR_Notes.html)
@@ -66,3 +72,7 @@ Workshop](https://nbisweden.github.io/RaukR-2018/metagenomics_John/presentation/
 [RNASeq and ChipSeq](RaukR_Workshop1_RNASeq_ChipSeq.html)
 
 [Annotation](RaukR_Workshop2_Annotation.html)
+
+[Spatial Statistics](RaukR_Workshop3_Spatial_Statistics.html)
+
+[Machine Learning](RaukR_Workshop4_machine_learning.html)
