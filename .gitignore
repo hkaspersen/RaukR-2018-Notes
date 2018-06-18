@@ -19,3 +19,7 @@ css/
 glimma-plots/
 *.txt
 *.fa
+*.grd
+*.vrt
+*.adj
+*.gri
