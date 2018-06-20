@@ -55,6 +55,12 @@ Workshop](https://nbisweden.github.io/RaukR-2018/aeral_data_Paula/presentation-d
 [Machine 
 Learning](https://nbisweden.github.io/RaukR-2018/MachineLearning_Nikolay/Presentation_MachineLearning.html#15)
 
+[Shiny 
+Workshop](https://nbisweden.github.io/RaukR-2018/tutorial_shiny_spatial_Paula/presentation-shiny.pdf)
+
+[Cancer 
+Genomics](https://nbisweden.github.io/RaukR-2018/cancer_genomics_Markus/presentation/CancerGenomicsPresentation.html#1)
+
 [Statistics and Experimental 
 Design](https://nbisweden.github.io/RaukR-2018/stat_workshop_Bengt/presentation/presentation.html#1)
 
