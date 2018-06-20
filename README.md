@@ -85,3 +85,6 @@ Design](https://nbisweden.github.io/RaukR-2018/stat_workshop_Bengt/presentation/
 [Spatial Statistics](RaukR_Workshop3_Spatial_Statistics.html)
 
 [Machine Learning](RaukR_Workshop4_machine_learning.html)
+
+[Statistics and Experimental 
+Design](RaukR_Workshop5_statistics_and_experimental_design.html)
