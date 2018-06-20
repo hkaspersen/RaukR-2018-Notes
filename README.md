@@ -91,3 +91,5 @@ RNASeq](https://nbisweden.github.io/RaukR-2018/scRNAseq_Asa/presentation/scRNAse
 
 [Statistics and Experimental 
 Design](RaukR_Workshop5_statistics_and_experimental_design.html)
+
+[Single cell RNASeq](RaukR_Workshop6_Single_cell_RNASeq.html)

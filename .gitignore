@@ -25,3 +25,5 @@ glimma-plots/
 *.gri
 *.png
 *.tsv
+single_cell_ilc/
+*.pdf
