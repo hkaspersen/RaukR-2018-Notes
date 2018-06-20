@@ -64,6 +64,9 @@ Genomics](https://nbisweden.github.io/RaukR-2018/cancer_genomics_Markus/presenta
 [Statistics and Experimental 
 Design](https://nbisweden.github.io/RaukR-2018/stat_workshop_Bengt/presentation/presentation.html#1)
 
+[Single-cell 
+RNASeq](https://nbisweden.github.io/RaukR-2018/scRNAseq_Asa/presentation/scRNAseq_presentation_RaukR.pdf)
+
 ### Notes
 
 [Day 1: Better Coding](RaukR_Notes.html)
