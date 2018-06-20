@@ -55,6 +55,9 @@ Workshop](https://nbisweden.github.io/RaukR-2018/aeral_data_Paula/presentation-d
 [Machine 
 Learning](https://nbisweden.github.io/RaukR-2018/MachineLearning_Nikolay/Presentation_MachineLearning.html#15)
 
+[Statistics and Experimental 
+Design](https://nbisweden.github.io/RaukR-2018/stat_workshop_Bengt/presentation/presentation.html#1)
+
 ### Notes
 
 [Day 1: Better Coding](RaukR_Notes.html)
